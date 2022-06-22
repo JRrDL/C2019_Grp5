@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GroupLegendz", "GroupLegendz\GroupLegendz.csproj", "{27D8336C-B46A-45DD-A48B-A46F42424C69}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27D8336C-B46A-45DD-A48B-A46F42424C69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27D8336C-B46A-45DD-A48B-A46F42424C69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27D8336C-B46A-45DD-A48B-A46F42424C69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27D8336C-B46A-45DD-A48B-A46F42424C69}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D4A6EAD2-42C4-4DD6-AF83-2E9A24D08170}
+	EndGlobalSection
+EndGlobal
